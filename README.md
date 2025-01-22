@@ -33,7 +33,7 @@ Ce projet contient des scripts pour :
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone https://github.com/jeremy-vangansberg/simplon-data-collection.git
+   git clone https://github.com/jeremy-vangansberg/simplon-data-collection-Azure-Parquet.git
    ```
 
 2. **Créer un environnement virtuel et installer les dépendances :**
