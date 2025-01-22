@@ -1,5 +1,7 @@
 # Azure SDK for interacting with Azure Blob Storage
 azure-storage-blob
+azure-identity
+azure-keyvault-secrets
 
 # Libraries for data manipulation
 pandas
@@ -8,3 +10,7 @@ pyarrow # For Parquet support
 # Libraries for connecting to Azure SQL Database
 pyodbc
 sqlmodel
+
+duckdb
+
+python-dotenv
